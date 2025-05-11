@@ -6,7 +6,7 @@ Chat server ringan berbasis Python untuk komunikasi via TCP socket. Dirancang ag
 - Multi-user chat (broadcast)
 - Identitas pengguna (username@server)
 - Username disimpan otomatis, tidak perlu login ulang
-- Port default: **3441**
+- Port default: **1234** (Ganti Port di 'chat_server.py')
 - Bisa dijalankan di Termux, VPS, atau PC
 
 ## Struktur File
