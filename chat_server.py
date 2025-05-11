@@ -13,7 +13,7 @@ def handle_client(client, addr):
         while True:
             msg = client.recv(1024).decode()
             if msg:
-                broadcast(f"{username}@fsociety: {msg}", client)
+                broadcast(f"{username}@server: {msg}", client)
             else:
                 break
     except:
