@@ -18,11 +18,11 @@ Chat server ringan berbasis Python untuk komunikasi via TCP socket. Dirancang ag
 
 ### Untuk Server (VPS)
 ```bash
-wget https://raw.github.com/Wh0Am1-kli/ServerChat-python/blob/main/chat_server.py
+wget https://raw.github.com/Wh0Am1-kli/ServerChat-python/main/chat_server.py
 ```
 ### Untuk Client (Termux & Linux)
 ```bash
-wget https://raw.github.com/Wh0Am1-kli/ServerChat-python/blob/main/chat_client.py
+wget https://raw.github.com/Wh0Am1-kli/ServerChat-python/main/chat_client.py
 ```
 ## Cara Pakai
 
