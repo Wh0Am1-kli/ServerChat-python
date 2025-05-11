@@ -19,3 +19,7 @@ Chat server ringan berbasis Python untuk komunikasi tim hacking **WhoIs** via TC
 ### Jalankan Server (di VPS)
 ```bash
 python3 chat_server.py
+```
+### Jalankan Chat (di Terminal, CMD, Termux)
+```bash
+python3 chat_client.py
