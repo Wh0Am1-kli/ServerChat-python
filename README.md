@@ -1,6 +1,6 @@
 # Terminal Chat Server
 
-Chat server ringan berbasis Python untuk komunikasi tim hacking **WhoIs** via TCP socket. Dirancang agar simple, stabil, dan bisa jalan di VPS tanpa root.
+Chat server ringan berbasis Python untuk komunikasi via TCP socket. Dirancang agar simple, stabil, dan bisa jalan di VPS tanpa root.
 
 ## Fitur
 - Multi-user chat (broadcast)
@@ -18,11 +18,11 @@ Chat server ringan berbasis Python untuk komunikasi tim hacking **WhoIs** via TC
 
 ### Untuk Server (VPS)
 ```bash
-git clone https://github.com/Wh0Am1-kli/ServerChat-python/
+git clone https://github.com/Wh0Am1-kli/ServerChat-python/blob/main/chat_server.py
 ```
 ### Untuk Client (Termux & Linux)
 ```bash
-git clone https://github.com/Wh0Am1-kli/ServerChat-python/
+git clone https://github.com/Wh0Am1-kli/ServerChat-python/blob/main/chat_client.py
 ```
 ## Cara Pakai
 
